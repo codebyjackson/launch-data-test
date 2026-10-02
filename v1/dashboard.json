@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T08:10:47.723Z",
-  "approved_at": "2026-10-02",
+  "generated_at": "2026-10-02T07:17:55.388Z",
+  "approved_at": "2026-10-02T07:17:55.388Z",
   "approved_by": "codebyjackson",
   "approval": {
-    "trigger": "approval",
-    "issue": 43,
-    "pr": 44,
-    "reason": null
+    "trigger": "manual",
+    "issue": null,
+    "pr": null,
+    "reason": "Revert test"
   },
-  "pipeline_commit": "c086b8ac3cda1f054db97593897f6152886561d6",
-  "content_hash": "5d17c10a8b5de102ecb6e18d82590ea808b8e74ea5020ca5afbfc45adee0ab66",
+  "pipeline_commit": "1244b739faf4925cbc3b2ad3eee2d584fdf93f61",
+  "content_hash": "b71e234f06213a93f684c173ab993908bcd894d4092edae17b78f69ae2037d93",
   "locales": [
     "en",
     "fr",
     "pt"
   ],
   "data_status": "draft",
-  "last_updated": "2026-10-02",
+  "last_updated": "2026-09-30",
   "source_coverage": [
     {
       "id": "who-guidelines",
@@ -537,15 +537,6 @@
     },
     "changelog": [
       {
-        "date": "2026-10-02",
-        "product": "GanLum",
-        "plain": {
-          "en": "GanLum — who pq listing was updated from the WHO prequalification list.",
-          "fr": "GanLum — La liste de préqualification de l'OMS a été mise à jour à partir de la liste de préqualification de l'OMS.",
-          "pt": "GanLum — a lista de pré-qualificação da OMS foi atualizada a partir da lista de pré-qualificação da OMS."
-        }
-      },
-      {
         "date": "2026-09-10",
         "product": "All",
         "plain": {
@@ -797,21 +788,21 @@
             "nextDate": ""
           },
           {
-            "status": "done",
+            "status": "idle",
             "note": {
-              "en": "Prequalified by WHO on 15 Sep 2026 (WHO ref TEST-0001, Novartis Pharma AG).",
-              "fr": "Préqualifié par l'OMS le 15 septembre 2026 (réf. OMS TEST-0001, Novartis Pharma AG).",
-              "pt": "Pré-qualificado pela OMS em 15 de setembro de 2026 (ref. OMS TEST-0001, Novartis Pharma AG)."
+              "en": "Not on the WHO PQ EOI list yet (24th malaria EOI, 27 Feb 2026, checked)",
+              "fr": "Pas encore sur la liste des déclarations d'intérêt de l'OMS PQ (24e déclaration d'intérêt pour le paludisme, 27 février 2026, vérifiée)",
+              "pt": "Ainda não consta da lista de Manifestações de Interesse (EOI) da OMS PQ (24ª EOI sobre malária, 27 de fevereiro de 2026, verificada)"
             },
-            "date": "15 Sep 2026",
+            "date": "",
             "next": {
               "en": "",
               "fr": "",
               "pt": ""
             },
             "nextDate": "",
-            "source": "WHO prequalification list (TEST-0001 — https://extranet.who.int/prequal/medicines/prequalified/finished-pharmaceutical-products)",
-            "asOf": "2026-09-21"
+            "source": "WHO PQ EOI list (24th edition)",
+            "asOf": "2026-08-22"
           },
           {
             "status": "idle",

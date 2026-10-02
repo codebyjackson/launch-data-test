@@ -2,6 +2,17 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-02T07-17-55Z
+
+6 changes for RBM's readers (published by @codebyjackson: Revert test):
+
+- removed `changelog`: 2026-10-02 · GanLum — who pq listing was updated from the WHO prequalification list.
+- `products[ganlum].stages[3].status`: done → idle
+- `products[ganlum].stages[3].note`: Prequalified by WHO on 15 Sep 2026 (WHO ref TEST-0001, Novartis Pharma AG). → Not on the WHO PQ EOI list yet (24th malaria EOI, 27 Feb 2026, checked)
+- `products[ganlum].stages[3].date`: 15 Sep 2026 → —
+- `products[ganlum].stages[3].source`: WHO prequalification list (TEST-0001 — https://extranet.who.int/prequal/medicines/prequ… → WHO PQ EOI list (24th edition)
+- `products[ganlum].stages[3].asOf`: 2026-09-21 → 2026-08-22
+
 ## 2026-10-02T07-08-24Z
 
 6 changes for RBM's readers (approval of proposal #41 by @codebyjackson):

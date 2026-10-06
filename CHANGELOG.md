@@ -2,6 +2,52 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-06T09-03-45Z
+
+317 changes for RBM's readers (published by @codebyjackson: Hand publish of main 00354b1 while GitHub Actions is blocked (billing)):
+
+- `stages[6]`: Procurement → Procurement (public channels)
+- `stageInfo[0].source`: Trial registries and manufacturer announcements → Trial registries and manufacturer announcements
+- `stageInfo[1].what`: A stringent regulator reviews the full evidence on quality, safety and effectiveness. F… → A stringent regulator reviews the full evidence on quality, safety and effectiveness. F…
+- `stageInfo[1].source`: EMA registers → EMA registers
+- `stageInfo[2].source`: WHO Guidelines for malaria → WHO Guidelines for malaria
+- `stageInfo[3].source`: WHO prequalification list and EOI → WHO prequalification list and EOI
+- `stageInfo[4].source`: National medicines registers → National medicines registers
+- `stageInfo[5].source`: National treatment guidelines → National treatment guidelines
+- `stageInfo[6].what`: Someone has to pay. Funders and governments run tenders, agree reference prices and for… → Someone has to pay. Funders and governments run tenders, agree reference prices and for…
+- `stageInfo[6].source`: Global Fund price and quality reporting, PMI → Global Fund price and quality reporting, PMI
+- `stageInfo[7].source`: Manufacturer and programme communications → Manufacturer and programme communications
+- added `changelog`: 2026-10-06 · The country access map now shows only countries we can back with an official or peer-reviewed source. Some countries moved stage, some were added, and those we could not confirm now show No data. New sources include four national medicine registers and WHO's guide to using several first-line treatments. The country counts in each medicine's details now match the map.
+- added `changelog`: 2026-10-02 · We changed some wording after reviewer feedback. The price card is gone, the procurement step is labelled as public channels only, and the page now says that health-authority review progress is usually not public. GanLum now credits Novartis as its developer, with the required acknowledgement of its funders, and the page has a disclaimer.
+- added `changelog`: 2026-10-01 · We removed the drug-resistance results from the map. For that information, the page now points to the WHO Malaria Threats Map. The map's filters and legend have been tidied up, and you can now click any country to see its page.
+- `products[ganlum].manufacturer`: Novartis · MMV → Novartis
+- `products[ganlum].stages[0].date`: Announced 12 Nov 2025; trial completed 25 Nov 2025 → Announced 12 Nov 2025; trial completed 25 Nov 2025
+- `products[ganlum].stages[0].nextDate`: — → —
+- `products[ganlum].stages[1].date`: — → —
+- `products[ganlum].stages[1].nextDate`: TBC → TBC
+- `products[ganlum].stages[2].date`: — → —
+- `products[ganlum].stages[2].nextDate`: — → —
+- `products[ganlum].stages[3].date`: — → —
+- `products[ganlum].stages[3].nextDate`: — → —
+- `products[ganlum].stages[4].date`: — → —
+- `products[ganlum].stages[4].nextDate`: — → —
+- `products[ganlum].stages[5].date`: — → —
+- `products[ganlum].stages[5].nextDate`: — → —
+- `products[ganlum].stages[6].date`: — → —
+- `products[ganlum].stages[6].nextDate`: — → —
+- `products[ganlum].stages[7].date`: — → —
+- `products[ganlum].stages[7].nextDate`: — → —
+- removed `products[ganlum].detail.access`: Co-developed with MMV under access-oriented partnership
+- `products[ganlum].detail.research.lead`: Novartis / MMV → Novartis
+- `products[ganlum].detail.research.geographies`: 12 African countries (KALUMA trial sites) → 12 African countries (KALUMA trial sites)
+- `products[ganlum].detail.research.timeline`: Phase III complete Nov 2025 → Phase III complete Nov 2025
+- `products[ganlum].detail.milestones[0].date`: 12 Nov 2025 (trial completed 25 Nov 2025) → 12 Nov 2025 (trial completed 25 Nov 2025)
+- `products[ganlum].detail.milestones[0].anticipated`: — → —
+- `products[ganlum].detail.milestones[1].date`: — → —
+- `products[ganlum].detail.milestones[1].anticipated`: TBC → TBC
+- `products[ganlum].detail.milestones[2].date`: — → —
+- … and 277 more
+
 ## 2026-10-02T07-17-55Z
 
 6 changes for RBM's readers (published by @codebyjackson: Revert test):

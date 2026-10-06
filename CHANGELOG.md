@@ -2,6 +2,52 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-06T10-50-09Z
+
+46 changes for RBM's readers (published by @codebyjackson: Publish the latest data):
+
+- `changelog[0].plain (fr)`: The country access map now shows only countries we can back with an official or peer-re… → La carte d'accès aux pays n'affiche désormais que les pays pour lesquels nous disposons…
+- `changelog[0].plain (pt)`: The country access map now shows only countries we can back with an official or peer-re… → O mapa de acesso por país mostra agora apenas os países que podemos comprovar com uma f…
+- `products[pyramax].flag (fr)`: Adoption is the current access barrier — strongly recommended by WHO since 2022 and on … → L'adoption constitue actuellement le principal obstacle à l'accès : fortement recommand…
+- `products[pyramax].flag (pt)`: Adoption is the current access barrier — strongly recommended by WHO since 2022 and on … → A adoção é a atual barreira de acesso — fortemente recomendada pela OMS desde 2022 e pr…
+- `products[pyramax].stages[4].note (fr)`: Confirmed in five national registers so far: Tanzania — 2 registrations (TMDA, issued 8… → Confirmé à ce jour dans cinq registres nationaux : Tanzanie — 2 enregistrements (TMDA, …
+- `products[pyramax].stages[4].note (pt)`: Confirmed in five national registers so far: Tanzania — 2 registrations (TMDA, issued 8… → Confirmado em cinco registos nacionais até à data: Tanzânia — 2 registos (TMDA, emitido…
+- `products[pyramax].detail.access[1] (fr)`: Registration confirmed in five national registers so far: Nigeria, Rwanda, Tanzania, Vi… → L'inscription a été confirmée à ce jour dans cinq registres nationaux : au Nigéria, au …
+- `products[pyramax].detail.access[1] (pt)`: Registration confirmed in five national registers so far: Nigeria, Rwanda, Tanzania, Vi… → O registo foi confirmado até ao momento em cinco registos nacionais: Nigéria, Ruanda, T…
+- `products[pyramax].detail.milestones[4].label (fr)`: 5 countries register-confirmed → 5 pays enregistrés
+- `products[pyramax].detail.milestones[4].label (pt)`: 5 countries register-confirmed → 5 países com registo confirmado
+- `products[pyramax].detail.milestones[4].date (fr)`: Rolling (VNM 2013, TZA 2022, NGA 2024, RWA 2024, ZMB 2025) → Roulant (VNM 2013, TZA 2022, NGA 2024, RWA 2024, ZMB 2025)
+- `products[pyramax].detail.milestones[4].date (pt)`: Rolling (VNM 2013, TZA 2022, NGA 2024, RWA 2024, ZMB 2025) → Rolamento (VNM 2013, TZA 2022, NGA 2024, RWA 2024, ZMB 2025)
+- `sources[who-wmr-annex-4b].label (fr)`: WHO national drug policy table → Tableau des politiques nationales en matière de médicaments de l'OMS
+- `sources[who-wmr-annex-4b].label (pt)`: WHO national drug policy table → Tabela da política nacional de medicamentos da OMS
+- `sources[who-wmr-annex-4b].alsoSee[0].label (fr)`: Annex 4B spreadsheet → Feuille de calcul de l'annexe 4B
+- `sources[who-wmr-annex-4b].alsoSee[0].label (pt)`: Annex 4B spreadsheet → Ficha de trabalho do Anexo 4B
+- `sources[who-wmr-annex-4b].plain (fr)`: Which malaria medicines each country's national treatment policy lists, and for which p… → Quels médicaments antipaludiques chaque pays répertorie-t-il dans sa politique national…
+- `sources[who-wmr-annex-4b].plain (pt)`: Which malaria medicines each country's national treatment policy lists, and for which p… → Que medicamentos antimaláricos constam da lista das políticas nacionais de tratamento d…
+- `sources[zamra].label (fr)`: Zambia: ZAMRA register → Zambie : registre de la ZAMRA
+- `sources[zamra].label (pt)`: Zambia: ZAMRA register → Zâmbia: Registo ZAMRA
+- `sources[zamra].plain (fr)`: The national register of every medicine approved for sale in Zambia. → Le registre national de tous les médicaments autorisés à la vente en Zambie.
+- `sources[zamra].plain (pt)`: The national register of every medicine approved for sale in Zambia. → O registo nacional de todos os medicamentos aprovados para venda na Zâmbia.
+- `sources[mcaz].label (fr)`: Zimbabwe: MCAZ register → Zimbabwe : Registre MCAZ
+- `sources[mcaz].label (pt)`: Zimbabwe: MCAZ register → Zimbabué: Registo MCAZ
+- `sources[mcaz].plain (fr)`: The national register of every medicine approved for sale in Zimbabwe. → Le registre national de tous les médicaments autorisés à la vente au Zimbabwe.
+- `sources[mcaz].plain (pt)`: The national register of every medicine approved for sale in Zimbabwe. → O registo nacional de todos os medicamentos aprovados para venda no Zimbabué.
+- `sources[dav].label (fr)`: Viet Nam: DAV register → Vietnam : Registre DAV
+- `sources[dav].label (pt)`: Viet Nam: DAV register → Vietname: Registo DAV
+- `sources[dav].plain (fr)`: The national register of every medicine approved for sale in Viet Nam. → Le registre national de tous les médicaments autorisés à la vente au Vietnam.
+- `sources[dav].plain (pt)`: The national register of every medicine approved for sale in Viet Nam. → Registo nacional de todos os medicamentos aprovados para venda no Vietname.
+- `sources[who-mft-guide].label (fr)`: WHO MFT implementation guide → Guide de mise en œuvre de l'OMS MFT
+- `sources[who-mft-guide].label (pt)`: WHO MFT implementation guide → Guia de implementação da OMS MFT
+- `sources[who-mft-guide].plain (fr)`: WHO's guide to using several first-line malaria treatments at once, with country examples. → Guide de l'OMS sur l'utilisation simultanée de plusieurs traitements antipaludiques de …
+- `sources[who-mft-guide].plain (pt)`: WHO's guide to using several first-line malaria treatments at once, with country examples. → Guia da OMS sobre a utilização simultânea de vários tratamentos de primeira linha contr…
+- `sources[bmjgh-rwanda-mft].label (fr)`: BMJ Global Health: Rwanda MFT, 2025 → BMJ Global Health : Rwanda MFT, 2025
+- `sources[bmjgh-rwanda-mft].label (pt)`: BMJ Global Health: Rwanda MFT, 2025 → BMJ Global Health: Ruanda MFT, 2025
+- `sources[bmjgh-rwanda-mft].plain (fr)`: How Rwanda uses several first-line malaria treatments, by region, to slow drug resistance. → Comment le Rwanda utilise, région par région, différents traitements de première intent…
+- `sources[bmjgh-rwanda-mft].plain (pt)`: How Rwanda uses several first-line malaria treatments, by region, to slow drug resistance. → Como o Ruanda utiliza vários tratamentos de primeira linha contra a malária, por região…
+- `sources[malariaj-burkina-mft].label (fr)`: Malaria Journal: Burkina Faso MFT, 2022 → Journal du paludisme : Burkina Faso MFT, 2022
+- `sources[malariaj-burkina-mft].label (pt)`: Malaria Journal: Burkina Faso MFT, 2022 → Jornal da Malária: Burkina Faso MFT, 2022
+- … and 6 more
+
 ## 2026-10-06T09-03-45Z
 
 317 changes for RBM's readers (published by @codebyjackson: Hand publish of main 00354b1 while GitHub Actions is blocked (billing)):

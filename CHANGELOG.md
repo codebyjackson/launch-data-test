@@ -2,6 +2,13 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-07T17-18-32Z
+
+2 changes for RBM's readers (approval of proposal #38 by @codebyjackson):
+
+- added `changelog`: 2026-10-08 · Each approved medicine now shows how many years late it is against the time each step is expected to take, with a new Time taken table. The expected times are LAUNCH's working estimates, except country registration, and are still to be agreed.
+- `yardstick`: — → {"wholeYears":8,"expected":[null,null,{"years":2,"basis":"estimate"},{"years":1.5,"basi…
+
 ## 2026-10-06T10-50-09Z
 
 46 changes for RBM's readers (published by @codebyjackson: Publish the latest data):

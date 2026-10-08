@@ -2,6 +2,12 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-08T14-54-47Z
+
+1 change for RBM's readers (published by @codebyjackson: Add Spanish):
+
+- language added: `es`, in all 501 texts (377 translated; the rest carry the English until they are)
+
 ## 2026-10-07T17-18-32Z
 
 2 changes for RBM's readers (approval of proposal #38 by @codebyjackson):
